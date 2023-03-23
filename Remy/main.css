@@ -1,0 +1,533 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header__section_div{
+    display: flex;
+
+}
+
+.forpat{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    list-style-type: none;
+    color: #071330;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    height: 18px;
+    
+}
+
+.request{
+    padding: 9px 20px;
+    border-radius: 8px;
+    border: none;
+    background-color: #3D55F9;
+    color: #FFFFFF;
+    margin-left: 544px;
+}
+
+.left__div{
+    display: flex;
+    margin: 0 auto;
+    margin-top: -350px;
+    width: 600px;
+    height: 595px;
+    margin-right: 100px;
+}
+
+.finally{
+    margin-top: 67px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 50px;
+    height: 100px;
+    width: 460px;
+    left: 0px;
+    color:  #071330;
+    margin-left: 1em;
+}
+
+.remmy_helps{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    height: 97px;
+    width: 450px;
+    left: 0px;
+    margin-top: 10px;
+    border-radius: nullpx;
+    margin-left: 2.3em;
+}
+
+.reqivte{
+    padding: 16px 30px;
+    background-color: #3D55F9;
+    border: none;
+    border-radius: 5px;
+    margin-left: 40px;
+    color: #FFFFFF;
+}
+
+.right__div{
+    margin-left: 2em;
+}
+
+.social{
+    display: inline-block;
+    color: #3D55F9;
+    width: 137px;
+    height: 20px;
+    margin-left: 202px;
+    margin-top: -20px;
+}
+
+.section__two_right__div{
+    align-items: center;
+    margin-left: 500px;
+    margin-top: -500px;
+}
+
+.test_skin{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    height: 94px;
+    width: 389px;
+    margin-left: 5em ;
+    margin-top: 33px;
+}
+
+.with_social{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    height: 97px;
+    width: 437px;
+    margin-top: 20px;
+}
+
+.youll_be{
+    height: 97px;
+    width: 375px;
+    margin-left: 13em;
+}
+
+.section__two_left__div{
+    margin-top: 300px;
+    margin-left: 40px;
+}
+
+.discover{
+    text-align: center;
+    margin-top: 460px;
+    align-items: center;
+    height: 94px;
+    width: 400px;
+    
+}
+
+.track{
+    margin-top: 80px;
+}
+
+.firstt{
+    display: inline-block;
+    background-color: #3D55F9;
+    width: 48px;
+    height: 48px;
+    border-radius: 50px; 
+    text-align: center;  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    align-items: center;
+    color: #FFFFFF;
+    padding: 7px 7px;
+}
+
+.start_by{
+    color: #07133099;
+    width: 400px;
+    height: 96px;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+.condition{
+    color: #071330;
+    margin-top: 15px;
+}
+
+.treatment{
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    background-color: #3D55F9;
+    border-radius: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 150px;
+    padding: 14px;
+}
+
+.join_a{
+    margin-top: 15px;
+}
+
+.join_biohacking{
+  color: rgba(7, 19, 48, 0.6);
+  width: 400px;
+  height: 98px;
+  margin: 0px;
+  margin-top: 20px;
+}
+
+.help_oth{
+    margin-top: 15px;
+}
+
+.others{
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    background-color: #3D55F9;
+    border-radius: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 150px;
+    padding: 14px;
+}
+
+.find_relief{
+    color: rgba(7, 19, 48, 0.6);
+    width: 400px;
+    height: 98px;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+.section__three_right__div{
+    margin-left: 60px;
+}
+
+.section__three_left__div{
+   margin-left: 650px;
+   margin-top: -880px;
+}
+
+.acne{
+    width: 350px;
+    height: 360px;
+}
+
+.popular__today{
+    width: 350px;
+    height: 360px;
+}
+
+.your_skin{
+    width: 350px;
+    height: 360px;
+}
+
+.the_idea{
+    color: #F0BCA3;
+    text-align: center;
+    width: 600px;
+    height: 100px;
+    margin-top: 200px;
+}
+
+.dr_rubyn{
+    background-image: url(./img/backround\(1\).png);
+    width: 55px;
+    height: 50px;
+    text-align: center;
+}
+
+.kutka{
+    width: 177px;
+    height: 36px;
+    list-style-type: none;
+    margin-left: 70px;
+    align-items: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.section__five_left__div{
+    margin-top: 300px;
+    margin-left: 40px;
+}
+
+.section__five_right__div{
+    align-items: center;
+    margin-left: 500px;
+    margin-top: -500px;
+}
+
+.tracking{
+    display: inline-block;
+    color: #3D55F9;
+    width: 137px;
+    height: 20px;
+    margin-left: 202px;
+    margin-top: -20px;
+}
+
+.improvement{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    margin-left: 5em ;
+    margin-top: 33px;
+}
+
+.helps{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    height: 97px;
+    width: 437px;
+    margin-top: 20px;
+    margin-left: 207px;
+}
+
+.this_is{
+    height: 97px;
+    width: 375px;
+    margin-left: 13em;
+}
+
+.section__five_left__div{
+    width: 270px;
+    height: 554px;
+}
+
+.section_six__left_div{
+    margin-top: 600px;
+}
+
+.section_six__right_div{
+   display: flex;
+}
+
+.find_treatments{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    width: 450px;
+    height: 90px;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+.treatments{
+    color: #3D55F9;
+}
+
+.get_access{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 32px;
+    width: 300px;
+    margin: 0px;
+    color: #071330;
+    margin-top: 20px;
+}
+
+.remmy__helps_people{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    width: 469px;
+    height: 90px;
+    margin: 0px;
+    color: #071330;
+    margin-top: 20px;
+}
+
+.section_six__left_div{
+   margin-top: 500px;
+   margin-left: 70px;
+}
+
+.section_six__right_div{
+    margin-top: -340px;
+    margin-left: 800px;
+    width: 277px;
+    height: 554px;
+}
+
+.section_seven__right_div{
+    margin-left: 650px;
+    margin-top: -550px;
+}
+
+.section_seven__left_div{
+    margin-left: 50px;
+}
+
+.support{
+    color: #3D55F9;
+}
+
+.a_community{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    width: 428px;
+    margin: 0px;
+    margin-top: 40px;
+    color: #071330;
+}
+
+.struggling{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    width: 432px;
+    height: 33px;
+    margin: 0px;
+    margin-top: 20px;
+    color: #071330;
+}
+
+.isolating{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 32px;
+    width: 468px;
+    height: 65px;
+    margin: 0px;
+    margin-top: 20px;
+    color: #071330;
+}
+
+
+.scien{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 70px;
+    margin-left: 90px;
+    line-height: 64px;
+}
+
+.box{
+    margin-top: -110px;
+}
+
+.footer_div{
+    text-align: center;
+    line-height: 60px;
+    margin-top: 250px;
+}
+
+.about_rem{
+    color:  #3D55F9;
+}
+
+.healthy{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    width: 491px;
+    height: 65px;
+}
+
+.believe{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 32px;
+    margin-top: 44px;
+    width: 491px;
+    height: 61px;
+}
+
+.right_div_section__eight{
+    width: 300px;
+    height: 300px;
+    margin: 0px;
+    margin-top: 120px;
+}
+
+.left_div_section__eight{
+    margin-left: 700px;
+}
+.yoga{
+    background-color: #3D55F9;
+    border-radius: 1px;
+    margin-top: -150px;
+}
+
+.listen{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 20px;
+}
+
+.believe_that{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    width: 418px;
+    height: 97px;
+    margin: 0px;
+    margin-top: 23px;
+    color: #071330;
+}
+    
+.left_div_dection__two_eight{
+    margin-left: 681px;
+    margin-top: 40px;
+}
+
+.dont_give{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-left: 20px;
+}
+
+.just{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    height: 129px;
+    width: 440px;
+    margin: 0px;
+    margin-left: 20px;
+    color: #071330;
+}
